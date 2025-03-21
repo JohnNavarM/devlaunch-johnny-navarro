@@ -32,7 +32,7 @@ const score = `${localTeamScore}-${visitorTeamScore}`
 
 console.log (`
     Torneo: ${eventName} ${time}\n
-    Equipos: ${localTeam} vs ${visitorTeam}\n
+    Equipos: ${localTeam} vs ${visitorTeam}\nx  
     Resultado: ${score}\n   
 `)
 
