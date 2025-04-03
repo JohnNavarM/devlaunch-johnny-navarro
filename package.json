@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/JohnNavarM/devlaunch-johnny-navarro/issues"
   },
-  "homepage": "https://github.com/JohnNavarM/devlaunch-johnny-navarro#readme",
-  "dependencies": {
-    "prompt-sync": "^4.2.0"
-  }
+  "homepage": "https://github.com/JohnNavarM/devlaunch-johnny-navarro#readme"
 }
