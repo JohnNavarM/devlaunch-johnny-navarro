@@ -38,5 +38,4 @@ default:
   console.log('Invalid day'); 
   break;    
 
-
  }
