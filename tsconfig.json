@@ -1,0 +1,15 @@
+{
+
+      "compilerOptions": {
+    "target": "ES6",             // versión de JavaScript generada
+    "module": "commonjs",        // sistema de módulos
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,              // activa chequeos estrictos de tipo
+    "outDir": "./dist",          // dónde guardar los archivos compilados
+    "rootDir": "./src",           // dónde están tus archivos fuente
+    "esModuleInterop": true, 
+    "noImplicitThis": false    
+
+  },
+  "include": ["src/**/*"]
+}

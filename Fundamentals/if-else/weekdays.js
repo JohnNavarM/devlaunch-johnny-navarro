@@ -6,7 +6,7 @@ Utiliza una declaración switch para mostrar el día de la semana correspondient
     
 */
 
-const promt = require('prompt-sync')(); 
+const prompt = require('prompt-sync')(); 
 
 const day = parseInt (promt('Digite un número del 1 al 7: ')); 
 

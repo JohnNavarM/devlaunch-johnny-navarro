@@ -18,16 +18,28 @@ Si cumplen con estas condiciones, el triángulo es válido.
 
 */
 
+interface triangle {
+    a: number  
+    b: number 
+    c: number 
+}
 
-let triangle = { 
+
+let t1: triangle = { 
     a: 7, 
     b: 10, 
     c: 5 
 };
 
-function isValidTriangle(triangle) {
-    const { a, b, c } = triangle;
+let t2: triangle = { 
+    a: 2, 
+    b: 3, 
+    c: 6 
+};
+
+
+function isValidTriangle ({ a, b, c }: triangle): boolean { 
     return (a + b > c) && (a + c > b) && (b + c > a);
 }
 
-console.log(isValidTriangle(triangle)); // true
+console.log(isValidTriangle(t1)); // true

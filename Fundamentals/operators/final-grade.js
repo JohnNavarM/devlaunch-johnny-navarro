@@ -6,13 +6,13 @@ Finalmente, presentas el dato formateado con máximo dos decimales, para asegura
 Si el usuario ingresa las calificaciones 70 80 y 90, la salida será: 80.00. 
 */
 
-const promopt = require('prompt-sync')();
+const prompt = require ('prompt-sync')();
 
 const gradeAmount = 3; // Número de notas a ingresar
 
-const grade1 = parseFloat(promopt('Nota 1: '));
-const grade2 = parseFloat(promopt('Nota 2: '));
-const grade3 = parseFloat(promopt('Nota 3: ')); 
+const grade1 = parseFloat(prompt('Nota 1: '));
+const grade2 = parseFloat(prompt('Nota 2: '));
+const grade3 = parseFloat(prompt('Nota 3: ')); 
 
 const average = (grade1 + grade2 + grade3) / gradeAmount; // Promedio de las notas
 
