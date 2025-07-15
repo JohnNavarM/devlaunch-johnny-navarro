@@ -1,2 +1,3 @@
-let message: string = 'Hello World'
-console.log (message)
+type DogColor = "black" | "white" 
+
+function createDog(name: string, age: number, color: DogColor)
