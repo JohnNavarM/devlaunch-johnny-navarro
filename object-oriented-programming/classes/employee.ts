@@ -35,9 +35,11 @@ set salary(salary:number) {
  } 
 
 get salary () {
-
     return this._salary
 }
+
+giveRaise(extra:number)
+
 
    }
    
