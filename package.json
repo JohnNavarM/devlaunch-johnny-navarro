@@ -1,0 +1,26 @@
+{
+  "name": "devlaunch-johnny-navarro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnNavarM/devlaunch-johnny-navarro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnNavarM/devlaunch-johnny-navarro/issues"
+  },
+  "homepage": "https://github.com/JohnNavarM/devlaunch-johnny-navarro#readme",
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.3"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

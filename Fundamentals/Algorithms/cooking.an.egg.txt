@@ -1,0 +1,28 @@
+Proporciona una explicacion detallada en un archivo .txt de las acciones que realizarías al 
+cocinar un huevo. 
+
+SOLUCIÓN:
+
+Ve a la cocina
+Busca un sarten limpio. 
+Pongo sobre la cocina
+Enciende el fuego 
+Echa un poco de aceite y espera a que se caliente bien. 
+Busca un huevo 
+Rompe el huevo con el borde de la sarten
+Echa el huevo en el sarten
+Busca la sal
+Toma una pizca y echala al huevo
+Durante 3 minutos:
+Deja que el huevo se cocine
+Toma una espatula
+Mientras el huevo no esté cocido: 
+Intenta separarlo del sarten
+El huevo se ha separado: 
+El huevo está cocido 
+Dale vuelta al huevo 
+Espera un minuto 
+Toma un plato
+Ve a la cocina 
+Toma el huevo con la espatula
+Pon el huevo en el plato 
